@@ -6,6 +6,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     TextView textView;
+    //git remote add origin https://github.com/krok1999/android.git
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
