@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">forGit</string>
+    <string name ="hello">Good morning!</string>
 </resources>
